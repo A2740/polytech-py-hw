@@ -1,1 +1,0 @@
-# polytech-py-hw
